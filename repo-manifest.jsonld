@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pandera-dev/pandera/commit/f3a6a1e6b5f5798f4d803b29e0085ec378197817",
       "git:hexsha": "f3a6a1e6b5f5798f4d803b29e0085ec378197817",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T14:14:59.068565+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pandera-dev/pandera/commit/894d3f2f6ad74446c47826f311404e16fc4055e1",
