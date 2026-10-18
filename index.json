@@ -1,0 +1,11 @@
+{
+  "org": "pandera-dev",
+  "repo": "pandera",
+  "versions": [
+    {
+      "commit": "f3a6a1e6b5f5798f4d803b29e0085ec378197817",
+      "tag": "",
+      "parsed_at": "2026-10-18T14:14:59.069754+00:00"
+    }
+  ]
+}
